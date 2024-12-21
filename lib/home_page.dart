@@ -118,7 +118,7 @@ class HomePage extends StatelessWidget {
                 ),
                 Container(
                   width: width,
-                  height: height * 0.15,
+                  height: height * 0.18,
                   padding: const EdgeInsets.all(10),
                   decoration: BoxDecoration(
                     borderRadius: BorderRadius.circular(10),

@@ -177,7 +177,7 @@ class HouseShowCasePage extends StatelessWidget {
                           height: 10,
                         ),
                         Text(
-                          "Adipisicing occaecat laboris proident sunt Lorem lorem ipsum bduiagdoudfuyasfuydbduhbddudsabfuyyagfudh jsaigafduydasfvsaguwegggdsahadhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+                          "Adipisicing occaecat laboris proident sunt Lorem lorem ipsum bduiagdoudfuyasfuydbduhbddudsabfuyyagfudh jsaigafduydasfvsaguwe",
                           style: TextStyle(fontSize: 18),
                         )
                       ],
